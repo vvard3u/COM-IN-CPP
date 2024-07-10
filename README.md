@@ -1,14 +1,10 @@
 # COM example in C++ with MITRE Technique T1546.015 realization
 
-This repository contains the implementation of a 32-bit COM DLL component in C++ for Windows architectures.
+This repository contains the implementation of a 32-bit COM DLL component in C++ for Windows architectures. It is designed to provide a practical example of creating and using COM components, which are rare resources in C++.
 
 ## Project Overview
 
-The project involves creating a 32-bit COM DLL component with the following files:
-
-- **comdll.cpp**: Manages global variables, component creation, and DLL unloading.
-- **dllmain.cpp**: Handles DLL events.
-- **Factory.cpp**: Implements the factory class.
+The INT-22 project demonstrates the creation and usage of a 32-bit COM DLL component. This project serves as a valuable resource for understanding COM programming in C++.
 
 ## Setup and Usage
 
